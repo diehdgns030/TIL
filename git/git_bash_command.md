@@ -22,7 +22,7 @@
 
 ## 기본 명령어
 
-![image-20220706232045741](C:\Users\diehd\AppData\Roaming\Typora\typora-user-images\image-20220706232045741.png)
+![image-20220706232045741](git_bash_command.assets/image-20220706232045741.png)
 
 - **`$ git init`**
   - 특정 폴더에 git 저장소(repository)를 생성
