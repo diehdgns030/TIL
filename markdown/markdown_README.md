@@ -21,7 +21,7 @@
 
 ## 학습📝
 
-[마크다운 문법정리](github_flavored_markdown.md)
+[마크다운 문법 정리](github_flavored_markdown.md)
 
 > 최초 마크다운과 비교하여 문법이 확장되었지만, 본 문서에서는 Github 에서 사용 가능한 문법(Github Flavored Markdown)을 기준으로 설명하고 있습니다.
 
@@ -29,7 +29,7 @@
 
 ## 실습💻
 
-[마크다운 문법 활용하여 실습하기](markdown_ex1_.md)
+[마크다운 문법을 활용하여 문서 작성 해보기](markdown_ex1_.md)
 
 <br/>
 
