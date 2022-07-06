@@ -2,7 +2,7 @@
 
 <br/><br/>
 
-![git](git_README.assets/git.png)
+![git](git_README.assets/git-16571332355751.png)
 
 <br/><br/>
 
