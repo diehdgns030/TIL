@@ -2,7 +2,7 @@
 
 <br/><br/>
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1920px-Git-logo.svg.png)
+![git](git_README.assets/git.png)
 
 <br/><br/>
 
