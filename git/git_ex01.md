@@ -51,7 +51,7 @@ ___
    # git 저장소 생성
 ```
 
-![image-20220707011333791](C:\Users\diehd\AppData\Roaming\Typora\typora-user-images\image-20220707011333791.png)
+![image-20220707011333791](git_ex01.assets/image-20220707011333791.png)
 
 ```bash
    $ git log
@@ -66,7 +66,7 @@ ___
    # 상태확인: 저장소에 있는 파일의 변경 내용이 없음
 ```
 
-​            ![image-20220707012612999](C:\Users\diehd\AppData\Roaming\Typora\typora-user-images\image-20220707012612999.png)		
+![image-20220707012612999](git_ex01.assets/image-20220707012612999.png)
 
 <br/>
 
@@ -104,7 +104,7 @@ ___
    # 버전확인: 사전 설정해놓은 사용자 정보에 맞게 커밋 됨
 ```
 
-![image-20220707013614342](C:\Users\diehd\AppData\Roaming\Typora\typora-user-images\image-20220707013614342.png)
+![image-20220707013614342](git_ex01.assets/image-20220707013614342.png)
 
 <br/>
 
