@@ -1,4 +1,4 @@
-# 📝Git Bash 명령어 정리
+# Git Bash 명령어 정리📝
 
 <br/><br/>
 
@@ -25,19 +25,28 @@
 ![image-20220706232045741](git_bash_command.assets/image-20220706232045741.png)
 
 - **`$ git init`**
-  - 특정 폴더에 git 저장소(repository)를 생성
-  - .git 폴더가 생성되며, git bash에서는 (master)라는 표기를 확인 가능
+  
+  특정 폴더에 git 저장소(repository)를 생성
 
+  .git 폴더가 생성되며, git bash에서는 (master)라는 표기를 확인 가능
+  
 - **`$ git add <file>`**
-  - working directory 상의 변경 사항을 staging area에 추가
+  
+  working directory 상의 변경 사항을 staging area에 추가
+  
 - **`$ git commit -m '<커밋메세지>'`**
-  - staged 상태의 파일을 커밋을 통해 버전으로 기록
-  - 커밋 메세지는 변경 사항을 나타낼 수 있도록 명확하게 작성 필요
+  
+  staged 상태의 파일을 커밋을 통해 버전으로 기록
 
+  커밋 메세지는 변경 사항을 나타낼 수 있도록 명확하게 작성 필요
+  
 - **`$ git log`**
-  - 현재 저장소에 기록된 커밋을 조회
+  
+  현재 저장소에 기록된 커밋을 조회
+  
 - **`$ git status`** 
-  - Git 저장소에 있는 파일의 상태를 확인
+  
+  Git 저장소에 있는 파일의 상태를 확인
 
 <br/><br/>
 
