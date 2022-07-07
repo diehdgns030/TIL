@@ -1,10 +1,6 @@
 # Git
 
-<br/><br/>
-
 ![git](git_README.assets/git-16571332355751.png)
-
-<br/><br/>
 
 ## 개요 
 
