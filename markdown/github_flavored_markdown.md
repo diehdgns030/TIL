@@ -1,4 +1,4 @@
-# Markdown 문법 정리📝
+# 문서 작성을 위한 Markdown 문법 정리📝
 
 <br/><br/>
 
@@ -185,20 +185,18 @@ ex)
 
 - **절대경로**(C: ~)    
 ```markdown
-![갓생산다](C:\Users\diehd\Desktop\갓생산다.jpg)
+![racoon](C:\Users\diehd\Desktop\racoon.jpg)
 ```
-![갓생산다](C:\Users\diehd\Desktop\갓생산다.jpg)
+![racoon](C:\Users\diehd\Desktop\racoon.jpg)
 
 <br/>
 
 - **상대경로**(~.assets)
 ```markdown
-![갓생산다](github_flavored_mkd/갓생산다.jpg)
+![racoon](github_flavored_mkd/갓생산다.jpg)
 ```
 
-![갓생산다](github_flavored_markdown.assets/갓생산다.jpg)
-
-<br/><br/>
+![racoon](github_flavored_markdown.assets/racoon.jpg)<br/><br/>
 
 ## 6. 인용문(Blockquotes)
 
