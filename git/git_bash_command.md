@@ -1,4 +1,4 @@
-# Git Bash 명령어 정리📝
+# 커밋을 위한 Git Bash 명령어📝
 
 <br/><br/>
 
@@ -32,13 +32,13 @@
   
 - **`$ git add <file>`**
   
-  working directory 상의 변경 사항을 staging area에 추가
+  working directory 상의 변경 내용을 staging area에 추가
   
 - **`$ git commit -m '<커밋메세지>'`**
   
   staged 상태의 파일을 커밋을 통해 버전으로 기록
 
-  커밋 메세지는 변경 사항을 나타낼 수 있도록 명확하게 작성 필요
+  커밋 메세지는 변경 내용을 나타낼 수 있도록 명확하게 작성 필요
   
 - **`$ git log`**
   
@@ -46,7 +46,7 @@
   
 - **`$ git status`** 
   
-  Git 저장소에 있는 파일의 상태를 확인
+  git 저장소에 있는 파일의 상태를 확인
 
 <br/><br/>
 

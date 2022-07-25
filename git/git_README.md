@@ -12,15 +12,14 @@
 
 ## 학습📝
 
-[Git의 3가지 영역과 라이프 사이클](./git_lifecycle.md)
-
-[커밋을 위한 Git Bash 명령어 정리](./git_bash_command.md)
+- [Git의 3가지 작업 영역과 파일의 라이프 사이클](./git_lifecycle.md)
+- [커밋을 위한 Git Bash 명령어](./git_bash_command.md)
+- [GitHub와 원격저장소 활용](./github.md)
 
 <br/>
 
 ## 실습 💻
 
-[Git Bash 명령어를 사용하여 커밋 해보기](./git_ex01.md)
-
-[TIL 프로젝트 - 학습한 내용 커밋 해보기](./git_ex02.md)
+- [저장소 만들고 변경사항 커밋 해보기](./git_ex01.md)
+- 원격 저장소 만들고 push & pull 해보기
 
